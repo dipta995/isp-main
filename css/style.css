@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+body {
+    font-family: 'Playfair Display', serif;
+    
+}
+p,li,h1,h2,h3,h4{
+    font-family: 'Playfair Display', serif;
+}
+nav li a{
+    color: #fff;
+}
+#special, #package{
+    margin: 100px;
+}
+.section-title {
+    padding-bottom: 50px;
+}
+span {
+    color: #008000;
+}
+.feature-item {
+    background-color: #F6F8FC;
+    padding: 25px;
+    margin: 10px;
+}
+.feature-item:hover {
+    background-color: #fff;
+    padding: 25px;
+    margin: 10px;
+    box-shadow: -10px 10px 10px rgba(0, 0, 0, 0.1);
+}
+#package ul li {
+    font-size: 16px;
+    color: #313b58;
+    line-height: 36px;
+    font-weight: 500;
+    list-style: none;
+}
+#package ul {
+    position: relative;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+.cta-info {
+    color: #fff;
+}
+.contactUs {
+    background-color: #b63d3d;
+    padding: 50px;
+}
+.btn {
+    border-radius: 5rem;
+    padding: 10px 20px 10px 20px;
+}
+#footer {
+    background-color: #000000  !important;
+    padding: 50px;
+}
+.footer {
+    background-color: #ffffff !important;
+    padding: 30px;
+    color: #000000;
+}
+.support ul {
+    position: relative;
+    padding: 5px;
+}
+.support ul li {
+    list-style: none;
+}
+.support ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.support ul li a:hover{
+    color: #000;
+}
+.address ul {
+    position: relative;
+    padding: 5px;
+}
+.address ul li {
+    list-style: none;
+}
+div .login {
+    padding: 50px;
+}
+.package{
+    color: #1abc9c;
+    padding: 10px;
+    box-shadow: -3px 3px rgba(0, 0, 0, 0.1);
+}
+.offer{
+    background: #1ebb388a;
+    padding: 5px;
+    margin-left: 250px;
+    color: white;
+}
+
